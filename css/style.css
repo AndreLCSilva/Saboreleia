@@ -1,3 +1,21 @@
 body {
     background-image: url(https://scontent.fbhz2-2.fna.fbcdn.net/v/t1.6435-9/180232917_117840567079563_13422941430216418_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=e3f864&_nc_ohc=aVcZ6m0sxLIAX_By3PL&_nc_ht=scontent.fbhz2-2.fna&oh=00_AT-fb62MXjROhqkcKyY8XhToLGPidQvnXd_J7neYrgXsDQ&oe=6342A2D7);
   }
+
+nav > ul {
+   width: 35vw;
+   display: flex;
+   justify-content: space-around;
+  }
+
+#container img {
+   max-width:350px;
+   max-height:250px;
+   width: auto;
+   height: auto;
+}
+
+#titulo{
+    font: "Snowbay";
+    font-size: 50px;
+}
